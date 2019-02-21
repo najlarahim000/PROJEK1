@@ -14,9 +14,9 @@ public class soalan1 {
         int i, j;
         String temp;
         Scanner scan = new Scanner(System.in);
-        String nama[] = new String[7];
-        System.out.print("Taipkan 7 nama rakan anda : ");
-        for(i=0; i<7; i++){
+        String nama[] = new String[8];
+        System.out.print("Taipkan 8 nama rakan anda : ");
+        for(i=0; i<8; i++){
             nama[i] = scan.nextLine();
         }
         
